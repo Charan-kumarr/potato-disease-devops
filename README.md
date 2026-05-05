@@ -45,7 +45,7 @@ Akshay
 * CSS
 * JavaScript
 * NumPy
-* Pillow
+
 
 ---
 
