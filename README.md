@@ -23,7 +23,7 @@ Users upload a potato leaf image and the system predicts whether the plant is **
 * Author
 * License5
 Akshay
-#charan
+
 ---
 
 # 🚀 Features
