@@ -19,7 +19,6 @@ Users upload a potato leaf image and the system predicts whether the plant is **
 * Model Download
 * Run the Application
 * Application Demo
-* Requirements
 * Author
 * License
 
